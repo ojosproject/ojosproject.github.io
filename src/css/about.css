@@ -1,0 +1,39 @@
+.large_header {
+	font-size: 50px;
+}
+
+.blue_text {
+	color: #3f8bf0;
+}
+
+.section {
+	margin: 25px;
+	max-width: 800px;
+}
+
+.container-about {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.header-about {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	width: 100%;
+
+	height: 35dvh;
+	background-color: white;
+}
+
+.header-about h1 {
+	color: black;
+	font-size: 40px;
+}
+
+.header-about h1 {
+	text-align: center;
+}
